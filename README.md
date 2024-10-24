@@ -6,12 +6,9 @@
 
 # A. Coding-Editor Setup:
 ![](https://github.com/jasonc1025-333/24-0214-0310-rq100-onecode-bot_controller-beginner-final/blob/master/2024-10-03_01-20-51-Close-LeftSidePanel-05-Blur20.png?raw=true)
-
 <!--- Need following dummy blank line above for this upcoming divider_line to work --->
 
 --- 
-
-
 # B. ___Basic Required:___ Flash/Download This Code to 'micro:bit' ~ For 'Any Lesson':
 
 # * B-1.
@@ -33,11 +30,9 @@
 
 # * B-6. This 'Sad-Face' can Occur 3-5 times, so Keep Trying :)
 ![](https://github.com/jasonc1025-333/24-0214-0310-rq100-onecode-bot_controller-beginner-final/blob/master/2024-09-11_14-38-57-FlashSadFaceError.png?raw=true)
-
 <!--- Need following dummy blank line above for this upcoming divider_line to work --->
 
 ---
-
 # THE END (For Students)
 <!--- Need following dummy blank line above for this upcoming divider_line to work --->
 
@@ -64,7 +59,6 @@
 ---
 # ZZZZ. FOR STAFF USE:
 
-
 # * ZZZZ-1. Staff: Chrome (Web) Browser ~ One-Time Setup 
 ![](https://github.com/jasonc1025-333/24-0214-0310-rq100-onecode-bot_controller-beginner-final/blob/master/11i-Media-24-0710-1300/2024-07-08_12-24-16-ChromeBrowser-OneTimeSetup.png?raw=true)
 
@@ -74,7 +68,6 @@
 ![AltTag_24-0505-0112-21-RnDTutorial_08-PreziMapGuide-FrontScreen](https://github.com/jasonc1025-333/24-0214-0310-rq100-onecode-bot_controller-beginner-final/blob/master/24-0505-0112-21-RnDTutorial_08-PreziMapGuide-FrontScreen.png?raw=true)
 
 # THE END (For Staff)
-
 
 <!--- Need following dummy blank line above for this upcoming divider_line to work --->
 
