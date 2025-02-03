@@ -1,6 +1,6 @@
 {
     "name": "robot100-blank_template-24-1023-1700--v2.1-0.1.4 (24-1024-0630) [github edited]",
-    "version": "0.1.7",
+    "version": "0.2.0",
     "description": "",
     "dependencies": {
         "core": "*",
