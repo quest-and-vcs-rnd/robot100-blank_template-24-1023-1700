@@ -10,7 +10,7 @@ quest_Note_1.quest_Show_String_For_Note_Small_Func(
 quest_Note_1.quest_Show_String_For_Note_Small_Func(
 "..to sync micro:bit w/'show leds' blocks"
 )
-display.rotateTo(display.Direction.Normal)
+display.rotateTo(display.Direction.UpsideDown)
 quest_Note_1.quest_Show_String_For_Note_Big_Func(
 "©️ 2024 Quest Institute. All rights reserved."
 )
