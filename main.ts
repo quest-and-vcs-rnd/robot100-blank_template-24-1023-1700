@@ -22,7 +22,7 @@ if (true) {
     )
 }
 quest_Note_1.quest_Show_String_For_Note_Big_Func(
-"©️ 2025 Quest Institute. All rights reserved."
+"©️ 2024, 2025 Quest Institute. All rights reserved."
 )
 quest_Note_2.quest_Show_String_For_Note_Big_Func(
 "Your Code Can Start Below"
