@@ -25,8 +25,8 @@ basic.showIcon(IconNames.Heart)
 quest_Timer.quest_Set_ContinueCurrentState_CountdownTimer_Func(2, quest_Time_Units_Enum.Seconds)
 basic.showIcon(IconNames.Happy)
 quest_Timer.quest_Set_ContinueCurrentState_CountdownTimer_Func(2, quest_Time_Units_Enum.Seconds)
-setup_Staff_ThisLessonOnly_Func()
 setup_System_AnyLessonAlways_Func()
+setup_Staff_ThisLessonOnly_Func()
 quest_Note_1.quest_Show_String_For_Note_Big_Func(
 "©️ 2025 Quest Institute. All rights reserved."
 )
