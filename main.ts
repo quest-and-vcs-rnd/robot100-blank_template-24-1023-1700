@@ -23,6 +23,6 @@ basic.forever(function () {
     "Ver 1.5.1: 26-0402-1600 (r100_200 Blank-Template)"
     )
     quest_Note_1.quest_Show_String_For_Note_Small_Func(
-    "©️ 2025 Quest Institute. All rights reserved."
+    "©️ 2026 Quest Institute. All rights reserved."
     )
 })
